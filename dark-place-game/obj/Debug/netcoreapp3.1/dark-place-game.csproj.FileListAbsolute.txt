@@ -1,0 +1,11 @@
+C:\Users\33612\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.csprojAssemblyReference.cache
+C:\Users\33612\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.AssemblyInfoInputs.cache
+C:\Users\33612\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.AssemblyInfo.cs
+C:\Users\33612\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.exe
+C:\Users\33612\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.deps.json
+C:\Users\33612\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.runtimeconfig.json
+C:\Users\33612\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.runtimeconfig.dev.json
+C:\Users\33612\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.dll
+C:\Users\33612\dark-place-engine\dark-place-game\bin\Debug\netcoreapp3.1\dark-place-game.pdb
+C:\Users\33612\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.dll
+C:\Users\33612\dark-place-engine\dark-place-game\obj\Debug\netcoreapp3.1\dark-place-game.pdb
